@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GastoViagem</string>
+    <string name="distancia">Distancia</string>
+    <string name="total_quilometros">Total de quilômetros</string>
+    <string name="preco">Preço</string>
+    <string name="kms_por_litro">KMs por Litro</string>
+    <string name="valor_total">R$ 0</string>
+    <string name="calcular">CALCULAR</string>
 </resources>
